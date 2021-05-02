@@ -25,4 +25,9 @@ private idChangeSub: Subscription;
   ngOnDestroy(): void {
     this.idChangeSub.unsubscribe();
   }
+
+  onEditItem(index: number) {
+this.slService.startEditing.next(index);
+
+  }
 }
