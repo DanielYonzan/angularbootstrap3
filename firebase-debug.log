@@ -1,0 +1,28 @@
+[debug] [2021-05-07T22:08:09.391Z] ----------------------------------------------------------------------
+[debug] [2021-05-07T22:08:09.395Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\danie\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-05-07T22:08:09.395Z] CLI Version:   9.10.2
+[debug] [2021-05-07T22:08:09.396Z] Platform:      win32
+[debug] [2021-05-07T22:08:09.396Z] Node Version:  v14.15.1
+[debug] [2021-05-07T22:08:09.397Z] Time:          Sat May 08 2021 03:53:09 GMT+0545 (Nepal Time)
+[debug] [2021-05-07T22:08:09.398Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-05-07T22:08:09.410Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-05-07T22:08:09.410Z] > authorizing via signed-in user (adtamang95@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\danie\WebstormProjects\angularbootstrap3
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
